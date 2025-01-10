@@ -1,1 +1,1 @@
-# Project for thesis *Steganoanalysis of website content*
+# Project files for thesis *Steganoanalysis of website content*
